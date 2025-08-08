@@ -1,4 +1,4 @@
-🚀 Slack Connect – Refold Intern Assignment
+🚀 Slack Connect 
 Slack Connect is a full-stack application that allows users to:
 
 🔒 Securely connect to their Slack workspace using OAuth 2.0
