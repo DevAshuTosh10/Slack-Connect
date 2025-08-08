@@ -13,10 +13,10 @@ Slack Connect is a full-stack application that allows users to:
 arduino
 Copy
 Edit
-slack-connect/
-├── backend/          // Node.js + Express + TypeScript
-├── frontend/         // React + TypeScript
-└── README.md
+slack-connect/ <br>
+├── backend/          // Node.js + Express + TypeScript<br>
+├── frontend/         // React + TypeScript<br>
+└── README.md<br>
 📦 Technology Stack
 Layer	Tech Used
 Frontend	React, TypeScript, Axios, React Router
